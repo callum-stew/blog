@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Callum Stew",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/CallumStew.jpg",
     role: "Student",
     bio: "CSE student at Warwick University.",
     email: "callum.d.stew@gmail.com",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      //name: `morethan-log`,
+      //href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
