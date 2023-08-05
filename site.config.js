@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Turing Pi Resources`,
+      href: "https://github.com/callum-stew/TuringPi",
     },
   ],
   // blog setting (required)
