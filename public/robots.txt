@@ -1,9 +1,9 @@
 # *
 User-agent: *
-Allow: /
+Disallow:
 
 # Host
-Host: https://blog-callum-stew.vercel.app/
+Host: https://callum-stew.vercel.app/
 
 # Sitemaps
-Sitemap: https://blog-callum-stew.vercel.app/sitemap.xml
+Sitemap: https://callum-stew.vercel.app/sitemap.xml
