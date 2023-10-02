@@ -1,6 +1,6 @@
 # *
 User-agent: *
-Allow: /
+Disallow:
 
 # Host
 Host: https://blog-callum-stew.vercel.app/
